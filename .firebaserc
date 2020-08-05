@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "the-stupid-assistant"
+  },
+  "targets": {
+    "the-stupid-assistant": {
+      "hosting": {
+        "playground": [
+          "playground-thestupidassistant"
+        ]
+      }
+    }
+  }
+}
